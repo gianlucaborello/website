@@ -1,0 +1,29 @@
+author:
+  name: "Gianluca Borello"
+baseURL: "https://www.borello.org/"
+disableKinds:
+  - "taxonomy"
+  - "taxonomyTerm"
+disqusShortname: gianlucaborello
+googleAnalytics: UA-155064231-1
+languageCode: "en-us"
+outputs:
+  home:
+  - "HTML"
+params:
+  dateform: "Jan 2, 2006"
+  dateformShort: "Jan 2"
+  dateformNum: "2006-01-02"
+  dateformNumTime: "2006-01-02"
+  social:
+    - name: "email"
+      url: "mailto:gianluca@borello.org"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/gborello"
+    - name: "github"
+      url: "https://github.com/gianlucaborello"
+  themeColor: "#494f5c"
+publishDir: "docs"
+rssLimit: 20
+theme: "hermit"
+title: "Gianluca Borello"

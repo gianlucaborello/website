@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.borello.org/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/introduction-to-ebpf/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/the-art-of-writing-ebpf-programs-a-primer/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/troubleshooting-containers/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-all-systems-go/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-dockercon/</loc>
+    <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-sysdig-summit/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-coreos-fest/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-monitorama/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/container-isolation-gone-wrong-troubleshooting-story/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-kubernetes-meetup/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2017-kubecon/</loc>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2016-sysdig-summit-2/</loc>
+    <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2016-sysdig-summit-1/</loc>
+    <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2016-belgrade/</loc>
+    <lastmod>2016-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2016-velocity/</loc>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/amazon-elb-bug/</loc>
+    <lastmod>2016-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2016-linuxfest/</loc>
+    <lastmod>2016-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/column-selection-effects-query-performance/</loc>
+    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2016-kubernetes-meetup/</loc>
+    <lastmod>2016-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-kubecon/</loc>
+    <lastmod>2015-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/troubleshooting-kubernetes-services/</loc>
+    <lastmod>2015-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/how-kubernetes-services-work/</loc>
+    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-sysdig-meetup-3/</loc>
+    <lastmod>2015-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-lisa/</loc>
+    <lastmod>2015-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-docker-meetup-2/</loc>
+    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-coreos-meetup/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-docker-meetup/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-sysdig-meetup-2/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/troubleshooting-flannel-networking-confd/</loc>
+    <lastmod>2015-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/digging-into-coreos-environments/</loc>
+    <lastmod>2015-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-facebook/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2015-sysdig-meetup/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2014-sysdig-meetup/</loc>
+    <lastmod>2014-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/hiding-linux-processes-for-fun-and-profit/</loc>
+    <lastmod>2014-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/talks/2014-sharkfest/</loc>
+    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/posts/fishing-for-hackers/</loc>
+    <lastmod>2014-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.borello.org/about/</loc>
+  </url>
+  
+</urlset>

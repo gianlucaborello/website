@@ -1,0 +1,144 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Gianluca Borello</title>
+		<link>https://www.borello.org/posts/</link>
+		<description>Recent content in Posts on Gianluca Borello</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://www.borello.org/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Introduction to eBPF</title>
+			<link>https://www.borello.org/posts/introduction-to-ebpf/</link>
+			<pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/introduction-to-ebpf/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/sysdig-and-falco-now-powered-by-ebpf/">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>The art of writing eBPF programs</title>
+			<link>https://www.borello.org/posts/the-art-of-writing-ebpf-programs-a-primer/</link>
+			<pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/the-art-of-writing-ebpf-programs-a-primer/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>In search of 0xffffffffff600400: troubleshooting containers, system calls and performance</title>
+			<link>https://www.borello.org/posts/troubleshooting-containers/</link>
+			<pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/troubleshooting-containers/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/troubleshooting-containers">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Container isolation gone wrong: a troubleshooting story</title>
+			<link>https://www.borello.org/posts/container-isolation-gone-wrong-troubleshooting-story/</link>
+			<pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/container-isolation-gone-wrong-troubleshooting-story/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/container-isolation-gone-wrong-troubleshooting-story">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>How we found a bug in Amazon ELB</title>
+			<link>https://www.borello.org/posts/amazon-elb-bug/</link>
+			<pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/amazon-elb-bug/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/amazon-elb-bug">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>A tale of troubleshooting database performance, with Cassandra</title>
+			<link>https://www.borello.org/posts/column-selection-effects-query-performance/</link>
+			<pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/column-selection-effects-query-performance/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/column-selection-effects-query-performance">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Troubleshooting Kubernetes Services</title>
+			<link>https://www.borello.org/posts/troubleshooting-kubernetes-services/</link>
+			<pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/troubleshooting-kubernetes-services/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/a-sysdigkubernetes-adventure-part-2-troubleshooting-kubernetes-services/">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>How Kubernetes Services Work</title>
+			<link>https://www.borello.org/posts/how-kubernetes-services-work/</link>
+			<pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/how-kubernetes-services-work/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/sysdigkubernetes-adventure-part-1-kubernetes-services-work/">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Troubleshooting Flannel Networking &amp; Confd</title>
+			<link>https://www.borello.org/posts/troubleshooting-flannel-networking-confd/</link>
+			<pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/troubleshooting-flannel-networking-confd/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/sysdig-coreos-part-2-troubleshooting-flannel-networking-confd/">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Digging Into CoreOS Environments</title>
+			<link>https://www.borello.org/posts/digging-into-coreos-environments/</link>
+			<pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/digging-into-coreos-environments/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/blog/coreos-sysdig-part-1-digging-into-coreos-environments/">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Hiding Linux Processes For Fun And Profit</title>
+			<link>https://www.borello.org/posts/hiding-linux-processes-for-fun-and-profit/</link>
+			<pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/hiding-linux-processes-for-fun-and-profit/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/hiding-linux-processes-for-fun-and-profit">Original link</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Fishing for Hackers: Analysis of a Linux Server Attack</title>
+			<link>https://www.borello.org/posts/fishing-for-hackers/</link>
+			<pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.borello.org/posts/fishing-for-hackers/</guid>
+			<description>Original link</description>
+			<content type="html"><![CDATA[<p><a href="https://sysdig.com/fishing-for-hackers">Original link</a></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
